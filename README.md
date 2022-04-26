@@ -16,3 +16,6 @@ Configurable Props:
 7. Border Thickness
 
 More props can be added if required.
+
+Preview
+![Flutter Buttons Demo](https://user-images.githubusercontent.com/89065286/165265454-3a598e57-f941-4ab6-bda0-98440b2d674e.png)
