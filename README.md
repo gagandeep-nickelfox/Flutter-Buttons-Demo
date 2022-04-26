@@ -12,5 +12,7 @@ Configurable Props:
 3. Is Disabled
 4. Rounding of Button
 5. Rounding Radius
+6. Border Color
+7. Border Thickness
 
 More props can be added if required.
